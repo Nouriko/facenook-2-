@@ -1,0 +1,37 @@
+.image{
+  border-radius: 50px;
+  width: 50px;
+  vertical-align: middle;
+}
+.twitter{
+ border: none;
+  vertical-align: middle;
+ 
+}
+.post{
+  color: white;
+  background-color:rgb(29, 113, 240) ;
+  border: none;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+  margin-left: 50px;
+  cursor: pointer;
+ 
+}
+.post:active{
+  background-color: rgb(0, 17, 255);
+}
+.mockey{
+  width: 300px;
+  vertical-align: text-top;
+
+  
+}
+p{
+  text-align: center;
+  
+}
